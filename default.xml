@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="https://github.com/oceanowo/" name="origin"/>
+
+	<project name="base" path="local_base" remote="origin" revision="main" upstream="main"/>
+	<project name="ci" path="local_ci" remote="origin" revision="main" upstream="main"/>
+</manifest>
