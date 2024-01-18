@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote fetch="ssh://github.com/oceanowo/" name="origin"/>
+	<remote fetch="ssh://github.com/oceanwow/" name="origin"/>
 
 	<project name="base.git" path="local_base" remote="origin" revision="main" upstream="main"/>
 	<project name="ci.git" path="local_ci" remote="origin" revision="main" upstream="main"/>
