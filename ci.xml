@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<remote fetch="ssh://git@github.com/oceanwow/" name="origin"/>
+
+	<project name="ci.git" path="ci/base" remote="origin" revision="main" upstream="main"/>
+	<project name="base.git" path="ci" remote="origin" revision="main" upstream="main"/>
+</manifest>
